@@ -2,3 +2,5 @@
 mkdir austral-motorhomes-app
 cd austral-motorhomes-app
 ```
+mkdir public
+mkdir src
